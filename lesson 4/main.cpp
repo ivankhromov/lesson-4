@@ -1,9 +1,9 @@
 /*
 	lesson 4
-	решение квадратного уравненич вида ax^2+bx+c=0
-	обработка исключение ветвелнием!!!
-	Хромов Иван
-	09,06,2023
+	solving a quadratic equation of the form ax^2+bx+c=0
+	handling exception by branching!!!
+	Khromov Ivan
+	09.06.2023
 */
 
 
@@ -15,8 +15,6 @@
 using std::cout;
 using std::cin;
 using std::endl;
-
-
 
 int main()
 {
