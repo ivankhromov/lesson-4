@@ -32,14 +32,14 @@ int main()
 	{
 		cout << "error a=0" << endl;
 		_getch();
-		return 0;
+		return -1;
 	}
 	d = (b * b) - (4 * a * c);
 	if (d < 0)
 	{
 		cout << "there are no roots" << endl;
 		_getch();
-		return -1;
+		return -2;
 	}
 	if (d == 0)
 	{
